@@ -1,4 +1,5 @@
 *.docx
 *.docx#
+*.pdf
 .ipynb_checkpoints/
 
