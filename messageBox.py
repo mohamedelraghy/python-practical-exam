@@ -20,7 +20,6 @@ txt2.grid(column=1, row=1)
 
 
 def clicked():
-
     messagebox.showinfo('Welcom', 'Hello ' + txt1.get())
     
 
