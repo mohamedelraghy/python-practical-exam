@@ -5,7 +5,7 @@ from tkinter import messagebox
 window = Tk()
 window.title("sign up")
 window.geometry('350x200')
-
+    
 lbl1 = Label(window, text="Username")
 lbl1.grid(column=0, row=0)
 
